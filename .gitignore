@@ -1,0 +1,9 @@
+# Ignore built files
+build/
+
+# Ignore node-gyp files
+binding.gyp
+node_modules/
+
+# Ignore compiled JavaScript files
+lib/
